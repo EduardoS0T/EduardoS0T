@@ -2,16 +2,13 @@
 
 ## About Me
 🎓 Computer Engineering Student at UNAM Engineering Faculty  
-💡 Specializing in Data Engineering & Analytics  
-🔭 Currently working on data processing systems and real-time monitoring solutions  
-🌱 Passionate about Data Science, AI, and Backend Development
 
 ## 🛠️ Tech Stack
 ```python
 tech_stack = {
     "Programming Languages": ["Python", "C++", "C", "Perl"],
-    "Databases": ["MariaDB", "MongoDB", "MySQL"],
-    "Data Engineering": ["ETL", "Real-time Processing", "Data Mining"],
+    "Databases": ["MariaDB", "MySQL"],
+    "Data Engineering": ["ETL", "Data Mining"],
     "Tools & Technologies": ["Git", "Linux", "Orange Data Mining"],
     "Areas of Interest": ["Data Engineering", "Backend Development", "AI"]
 }
